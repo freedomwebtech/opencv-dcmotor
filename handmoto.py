@@ -24,7 +24,7 @@ def forwards():
     GPIO.output(Motor1E,GPIO.HIGH)
     print("Going forwards")
  
-#    sleep(5)
+
 def backwards():
     # Going backwards
     GPIO.output(Motor1A,GPIO.LOW)
@@ -32,7 +32,7 @@ def backwards():
     GPIO.output(Motor1E,GPIO.HIGH)
     print("Going backwards")
  
-#    sleep(5)
+
 def fstop():
     # fstop
     GPIO.output(Motor1E,GPIO.LOW)
