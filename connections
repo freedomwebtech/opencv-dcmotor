@@ -1,0 +1,19 @@
+RASPBERRY(GPIO PINS)                     L298nDriver(PINS)
+ GPIO-PIN 24                                  Input1   
+ GPIO-PIN 23                                  Input2
+ GPIO-PIN 25                                  Input3
+ GROUND-PIN(6,9,14,20,25,30,34,39)            GROUND 
+
+
+
+
+
+BATTERY OR POWER ADAPTOR                 L298nDriver
+   
+ BATTERY +                                FirstSlot
+    
+ BATTERY -                                SecondSlot
+
+
+
+            
